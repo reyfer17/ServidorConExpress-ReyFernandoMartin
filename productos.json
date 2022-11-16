@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Camiseta Banfield",
+      "price": 16000,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhbUthm6PlIKcGf95gphWoDKaAo1RW7Fi3g&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "Short Banfield",
+      "price": 8000,
+      "thumbnail": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/s/h/short-de-banfield-athix-oficial-negro-221021800090020-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Botines Puma",
+      "price": 27000,
+      "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwc58d7cd5/products/PU_107148-01/PU_107148-01-1.JPG",
+      "id": 3
+    }
+]
